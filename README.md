@@ -1,2 +1,9 @@
 # Backup-and-File-Sharing-Solutions
-Houses both the backup solutions (on-site and off-site) and file sharing setup and configurations.
+- Backup-SOP.md
+- File-Sharing.md
+
+## **Quantum Leaps IT** <br/>
+
+- **Eveangalina Campos**
+[Github](https://github.com/Eveangalina) |
+[LinkedIn](www.linkedin.com/in/eveangalina-s-campos-b42346176)
