@@ -27,3 +27,5 @@ Register-ScheduledTask -Action (New-ScheduledTaskAction -Execute 'Powershell.exe
 Register-ScheduledTask -Action (New-ScheduledTaskAction -Execute 'Powershell.exe' -Argument '-NoProfile -WindowStyle Hidden -command "& {Perform-IncrementalBackup}"') -Trigger $incrementalBackupSchedule -TaskName "IncrementalBackupTask" -Description "Daily Incremental Backup Task"
 
 Write-Host "Backup tasks scheduled successfully."
+
+# Resources (ChatGPT)[https://chat.openai.com/share/ee0ad8d7-53d1-4544-a626-3dde5c035434] 
