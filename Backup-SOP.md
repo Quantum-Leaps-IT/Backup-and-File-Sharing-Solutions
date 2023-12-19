@@ -58,4 +58,5 @@ This procedure applies to all digital data and systems used by INNOVATORS IT, in
 
 <u> **Off-site Storage:**</u> Storing backup data at a different location from the main site.
 ## Revision History
-12/18/23 -- "Backup-SOP" created by Eveangalina Campos
+12/18/23 -- "Backup-SOP" created by Eveangalina Campos <br/>
+12/19/23 -- "edits for Backup-SOP"  by Eveangalina Campos <br/>
