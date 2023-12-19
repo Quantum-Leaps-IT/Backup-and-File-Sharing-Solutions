@@ -1,4 +1,5 @@
 # Backup-and-File-Sharing-Solutions
+- Automated-Backup-Script.ps1
 - Backup-SOP.md
 - File-Sharing.md
 
